@@ -1,0 +1,32 @@
+#cv-form{
+    /* display:none; */
+}
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    /* border: 1px solid black; */
+    border-radius: 50%;
+    width: 170px;
+}
+.background{
+    background-color:#FFFF;
+}
+
+
+.img1{
+    width: 20px;
+}
+body{
+background-color: #44baa8;
+/* opacity: 0.8;
+background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #c8c8ea 24px ), repeating-linear-gradient( #bdcecb55, #a9d8d1 ); */
+}
+.card-body{
+    w
+}
+
+/* .text-pattern{
+    background-color: black;
+} */
